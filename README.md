@@ -1,3 +1,5 @@
+![Imagem1](https://github.com/user-attachments/assets/2c4fe627-c71c-40af-9396-88d4f7d653be) 
+## Analide de Documento Anti-Fraude usando Azure
 A análise de documentos anti-fraude utilizando Azure AI envolve a utilização de serviços de inteligência artificial para detectar, analisar e prevenir fraudes em documentos diversos, como identidades, comprovantes de renda e documentos financeiros. Abaixo está um guia passo a passo para implementar uma solução de análise de documentos anti-fraude com Azure AI:
 
 Passo 1: Criar uma Conta do Azure
